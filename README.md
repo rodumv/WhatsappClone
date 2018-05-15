@@ -1,4 +1,4 @@
 # WhatsappClone
 Flutter WhatsappClone
 
-![Alt Text](https://imgflip.com/gif/2aabwf)
+![Alt Text](https://i.imgflip.com/2aabwf.gif)
